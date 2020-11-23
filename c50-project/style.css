@@ -1,0 +1,12 @@
+h1{
+    color: chocolate;
+}
+
+.header{
+    color: darkgoldenrod;
+}
+.item {
+    color: darkred;
+    border-width: 10px;
+    border: solid;
+}
